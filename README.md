@@ -2,6 +2,7 @@
 
 Proyecto de Inteligencia de Negocios para Titania Joyas.
 **Stack Tecnológico:** React, FastAPI, PostgreSQL (Supabase), Python, Vite, TailwindCSS.
+**Repositorio:** [https://github.com/Jossh478/SwiftDesing-Dashboard](https://github.com/Jossh478/SwiftDesing-Dashboard)
 
 SwiftDesing Dashboard es una plataforma de gestión operativa que centraliza métricas clave de inventario, marketing y logística. Incorpora el motor de Google Gemini para generar *insights* predictivos basados en el estado actual de la base de datos.
 
